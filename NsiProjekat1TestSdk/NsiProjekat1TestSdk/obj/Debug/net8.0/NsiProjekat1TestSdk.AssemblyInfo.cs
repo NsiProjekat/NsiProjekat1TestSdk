@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+099b85bdba1f37aee3bb1a198148b9757809043f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d2c560bee761a0b9929a07112a2d39555d35bf1")]
+>>>>>>> parent of fc1ec5d (Delete NsiProjekat1TestSdk directory)
 [assembly: System.Reflection.AssemblyProductAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
