@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NsiProjekat1TestSdk", "NsiProjekat1TestSdk\NsiProjekat1TestSdk.csproj", "{374C2410-928E-4E4C-B026-C49B621EE2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374C2410-928E-4E4C-B026-C49B621EE2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374C2410-928E-4E4C-B026-C49B621EE2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374C2410-928E-4E4C-B026-C49B621EE2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374C2410-928E-4E4C-B026-C49B621EE2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
