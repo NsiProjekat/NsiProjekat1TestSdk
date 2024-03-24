@@ -1,6 +1,0 @@
-@NsiProjekat1TestSdk_HostAddress = http://localhost:5094
-
-GET {{NsiProjekat1TestSdk_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
