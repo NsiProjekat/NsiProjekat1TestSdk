@@ -45,7 +45,7 @@
           }
         }
       },
-      "NsiProjekat1Sdk.Application/0.0.2": {
+      "NsiProjekat1Sdk.Application/0.0.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/NsiProjekat1Sdk.Application.dll": {},
@@ -463,16 +463,16 @@
         "microsoft.openapi.nuspec"
       ]
     },
-    "NsiProjekat1Sdk.Application/0.0.2": {
-      "sha512": "Uj9k5ehDYrrVORLL76n6GKFviPNvGUkSLE7Nf/iLyp0Fa4qPKv2gx96o5vqcNYEGi0ngMq9Ay9aklNjp/9+k1g==",
+    "NsiProjekat1Sdk.Application/0.0.4": {
+      "sha512": "AO6v+j9imNOSZFuvpVh4P7zWoew4w9RgAVr2XkeeHL5KM6xb0rnUruFPxgVMcm8VMaxMmTTcSaOLGV/wUAKTqA==",
       "type": "package",
-      "path": "nsiprojekat1sdk.application/0.0.2",
+      "path": "nsiprojekat1sdk.application/0.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/net8.0/NsiProjekat1Sdk.Application.dll",
         "lib/net8.0/NsiProjekat1Sdk.Sdk.dll",
-        "nsiprojekat1sdk.application.0.0.2.nupkg.sha512",
+        "nsiprojekat1sdk.application.0.0.4.nupkg.sha512",
         "nsiprojekat1sdk.application.nuspec"
       ]
     },
@@ -719,7 +719,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.2",
-      "NsiProjekat1Sdk.Application >= 0.0.2",
+      "NsiProjekat1Sdk.Application >= 0.0.4",
       "Refit >= 7.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -772,7 +772,7 @@
           },
           "NsiProjekat1Sdk.Application": {
             "target": "Package",
-            "version": "[0.0.2, )"
+            "version": "[0.0.4, )"
           },
           "Refit": {
             "target": "Package",

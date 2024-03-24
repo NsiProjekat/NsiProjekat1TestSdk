@@ -9,7 +9,7 @@ namespace NsiProjekat1TestSdk.Controllers;
 
 public class ProductController() : ControllerBase
 {
-    [HttpPost("create")]
+    [HttpPost("createProduct")]
     public async Task<IActionResult> Create(NsiProjekat1SdkProductCreateDto product)
     {
         var httpClient = new HttpClient

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a54b3a5e8f19042b02ed7a22bd8583f37f9fdaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+099b85bdba1f37aee3bb1a198148b9757809043f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NsiProjekat1TestSdk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

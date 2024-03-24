@@ -9,7 +9,7 @@
       "NsiProjekat1TestSdk/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.2",
-          "NsiProjekat1Sdk.Application": "0.0.2",
+          "NsiProjekat1Sdk.Application": "0.0.3",
           "Refit": "7.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -37,11 +37,11 @@
           }
         }
       },
-      "NsiProjekat1Sdk.Application/0.0.2": {
+      "NsiProjekat1Sdk.Application/0.0.3": {
         "runtime": {
           "lib/net8.0/NsiProjekat1Sdk.Application.dll": {
-            "assemblyVersion": "0.0.2.0",
-            "fileVersion": "0.0.2.0"
+            "assemblyVersion": "0.0.3.0",
+            "fileVersion": "0.0.3.0"
           },
           "lib/net8.0/NsiProjekat1Sdk.Sdk.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -139,12 +139,12 @@
       "path": "microsoft.openapi/1.4.3",
       "hashPath": "microsoft.openapi.1.4.3.nupkg.sha512"
     },
-    "NsiProjekat1Sdk.Application/0.0.2": {
+    "NsiProjekat1Sdk.Application/0.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Uj9k5ehDYrrVORLL76n6GKFviPNvGUkSLE7Nf/iLyp0Fa4qPKv2gx96o5vqcNYEGi0ngMq9Ay9aklNjp/9+k1g==",
-      "path": "nsiprojekat1sdk.application/0.0.2",
-      "hashPath": "nsiprojekat1sdk.application.0.0.2.nupkg.sha512"
+      "sha512": "sha512-u6fvelKfQQ4HY1QJxcs+xdj+JiUNbIAWBlAbMfRhfS3ZdFPY4uV2gwh7lVr1L2nSklHanzeH4Q7PHxFQ0jzflg==",
+      "path": "nsiprojekat1sdk.application/0.0.3",
+      "hashPath": "nsiprojekat1sdk.application.0.0.3.nupkg.sha512"
     },
     "Refit/7.0.0": {
       "type": "package",

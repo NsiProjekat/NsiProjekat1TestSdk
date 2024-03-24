@@ -49,7 +49,7 @@
             },
             "NsiProjekat1Sdk.Application": {
               "target": "Package",
-              "version": "[0.0.2, )"
+              "version": "[0.0.4, )"
             },
             "Refit": {
               "target": "Package",

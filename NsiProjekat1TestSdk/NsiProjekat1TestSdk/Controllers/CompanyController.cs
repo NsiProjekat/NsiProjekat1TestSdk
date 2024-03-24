@@ -9,7 +9,7 @@ namespace NsiProjekat1TestSdk.Controllers;
 
 public class CompanyController() : ControllerBase
 {
-    [HttpPost("create")]
+    [HttpPost("createCompany")]
     public async Task<IActionResult> Create(NsiProjekat1SdkCompanyCreateDto company)
     {
         var httpClient = new HttpClient
@@ -28,6 +28,7 @@ public class CompanyController() : ControllerBase
         
         var result = await client.CreateCompanyAsync(new NsiProjekat1SdkCompanyRequestModel(
             company.Name,
+            company.Description,
             "http://localhost:5140", 
             headers));
         return Ok(result);
